@@ -1,0 +1,522 @@
+## intent:ask_gmail
+- xem gmail
+- xem mail
+- cho mình xem mail
+- mail mới nhất
+- đọc mail cho tao
+- đọc mail cho tôi
+- xem mail cho tôi
+- gmail
+- email
+- e mail
+- xem email
+- e mail thế nào
+- mail thế nào
+- cho tôi biết email
+- đọc mail
+
+## intent:ask_weather
+- thời tiết hôm nay thế nào
+- thời tiết hà nội
+- thời tiết bây giờ
+- thời tiết
+- thời tiết ra sao
+- hôm nay như thế nào
+- thời tiết hôm nay
+- hôm nay thế nào
+- nói cho tôi thời tiết hôm nay
+- thời tiết hà nội ra sao
+- cho tôi biết thời tiết hà nội
+
+## intent:ask_lottery
+- xổ số miền bắc
+- xsmb
+- xổ số hôm nay
+- sổ số
+- xổ xố
+- xổ xố miền bắc
+- đề hôm nay bao nhiêu
+- kết quả lô
+- kết quả đề 
+- kết quả số xố
+- Cho anh xem kết quả đê
+- Kết quả số xố hôm này thế nào
+- Mày cho anh hỏi kết quả tý
+- Có kết quả chưa
+
+## intent:greet
+- xin chào
+- chào ngân hàng
+- chào bạn
+- shb
+- hello
+- hi
+- hey
+- mình có vài câu hỏi
+- có ai giúp mình không
+- ngân hàng ơi
+- bạn ơi
+- anh ơi
+- chị ơi
+- cháu ơi
+- hello
+- chào
+- hi
+- có ai ở đây không?
+- chào buổi chiều
+- chào nhé
+- chào bạn
+- chào shb
+- chào ngân hàng
+- chào chị
+- chào anh
+- xin chào shb
+- xin chào
+- chào em
+- chào shb
+- chào bạn
+- hi
+- hi shb
+- hi bạn
+- hi em
+- hello
+- alo
+- blo
+- clo
+- xin chào ngân hàng
+- em yêu
+- anh yêu
+- em yêu ơi
+- anh yêu ơi
+- chào anh
+- chào chị
+- chị yêu
+- chị yêu ơi
+
+## intent:bye
+- chào nhé
+- tạm biệt
+- chào tạm biệt
+- chào tạm biệt em
+- tạm biệt em
+- tạm biệt em nhé
+- tạm biệt shb nhé
+- cút
+- biến
+- xéo
+- đi đi
+- bye
+- nghỉ đi
+- nghỉ
+- tạm biệt
+- bye bye
+- thế thôi nhé
+- mình dừng ở đây thôi nhé
+- chào tạm biệt
+- hẹn gặp lại
+- lần tới nhé
+- chào nhé
+- thôi chào tạm biệt nhé
+- thôi chào
+- ok bye
+- good bye
+- see you
+- later on
+- mình phải đi rồi
+
+## intent:inform_yes
+- có ad
+- có ạ
+- có a
+- ok ad
+- đồng ý
+- mình có
+- được
+- cũng được
+- đúng
+- đúng rồi
+- chấp nhận
+- good
+- fine
+- let's go
+- mình tiếp túc nhé
+- tiếp tục thôi
+- tốt
+- chuẩn không phải chỉnh
+- ok
+- có em
+- có cần
+- có
+- được
+- đồng ý
+- okie
+- xong
+
+## intent:inform_no
+- không
+- không cần
+- mình không cần
+- không cần đâu
+- để mình tìm hiểu thêm
+- tạm thời mình chưa cần
+- chắc không cần đâu
+- không em ạ
+- không e
+- khỏi cần
+- thôi không cần nữa
+- không cần đâu ad
+- không cần đâu admin
+- không ad
+- không admin
+- không ạ
+- không a
+- không được
+- đừng nói nữa
+- stop
+- dừng lại
+- xin lỗi
+- vậy đủ rồi
+- không muốn
+- chán chết
+- thôi
+- không muốn nói nữa
+- không nhé
+- thôi không
+- vậy thôi
+- không thể
+- dừng
+- ngừng nói đi
+- thôi nói đi
+- không cần
+- không
+- không nhu cầu
+- không có
+- không em
+- thôi
+- thôi em
+
+## intent:thank
+- chuẩn
+- hay
+- siêu
+- tuyệt
+- cám ơn
+- thanks
+- thank you
+- ok
+- cám ơn ngân hàng nhé
+- yes
+- rõ rồi
+- hóa ra là vậy cám ơn nhé
+- uk
+- um
+- tuyệt vời
+- tôi cảm ơn
+- ok. cảm ơn
+- tốt. cảm ơn nhé
+- giỏi lắm
+- mình cảm ơn nhé
+- cảm ơn
+- cảm ơn rất nhiều
+- hay quá
+- cảm ơn bạn
+- cảm ơn chị
+- cảm ơn shb
+- thank you so much
+- thank you a lot
+- you are so good
+- that's fine
+- cảm ơn đã trợ giúp nhé
+- thông tin hữu ích
+- tôi đã rõ
+- đẹp đấy
+- cảm ơn em
+- cảm ơn em nhiều nhé
+- cảm ơn
+- tốt quá, cảm ơn em
+- cảm ơn shb
+- thanks em nhé
+- hehe, thanks em nhiều
+- thanks nhá
+- thank you em nhiều
+- thanks shb
+- thanks shb nhé
+- bạn giỏi thật
+- em giỏi thật
+- em giỏi quá
+- giỏi thật
+- giỏi quá
+
+## intent:shit
+- wtf?
+- wth
+- what the hell
+- what the fuck
+- fuck
+- điên à
+- ngu à
+- sai rồi
+- không có gì tốt cả
+- cút
+- chó chết
+- tồi
+- không tốt chút nào
+- thôi
+- gì vậy
+- cái quần què gì
+- dở
+- trời đất
+- dẹp đi
+- sao lại vậy được cơ chứ
+- fuck you
+- fuck shb
+- fuck
+- fuck shit
+- fuck bạn
+- cứt
+- stupid bạn
+- shit
+- holy shit
+- ngu vãi
+- mày rất ngu
+- ngu ngốc
+- điên ah
+- đéo hiểu gì
+- nói mãi đéo hiểu
+- địt mẹ mày
+- địt cụ mày
+- con chó chết
+- không hiểu gì ah
+- nói mãi không hiểu
+
+## intent:chatchit
+- đi trốn không
+- đi chơi không
+- em ơi đi trốn không
+- em ơi đi trốn với anh
+- ái chà chà
+- ái chà chà ái chà chà
+- đi chơi không
+- đưa nhau đi trốn
+- em yêu ơi
+- em yêu anh không
+- mình hẹn hò nhé
+- đi chơi không
+- về nhà anh đi
+- đáng yêu quá xá
+- đi đâu anh bao
+- đi ăn với anh nhé
+- mình hẹn hò được không
+- đi trốn đi
+- tâm sự đi
+- mình đi chơi đi
+- anh muốn đi massage
+- mình yêu nhau đi
+- hôm nay trời đẹp quá
+- đi chơi với anh đi
+- đi chơi đi
+- đi nhà nghỉ đi
+- vào nhà nghỉ với anh không
+- xoạc nhau đi
+- đi nhà nghỉ
+- đi nhà nghỉ không
+- anh yêu em
+- tôi yêu em
+- nói mãi không hiểu
+
+## intent:give_name
+- mình là [huy](cust_name)
+- [tớ](cust_sex) tên là [hải nam](cust_name)
+- [hồng](cust_name)
+- dạ [em](cust_sex) tên [hà](cust_name)
+- [chị](cust_sex) là [trinh](cust_name) em ạ
+- [cô](cust_sex) là [nguyễn thị lụa](cust_name)
+- [thắng](cust_name) ạ
+- mình là [thơm](cust_name)
+- mình là [nga](cust_name)
+- tên mình là [hùng](cust_name) nhé
+- tên của mình là [hiếu](cust_name)
+- tên mình là [nguyễn minh hiếu](cust_name)
+- tên đầy đủ là [kiều thị nguyệt nga](cust_name)
+- gọi mình là [hương](cust_name) nhé
+- mình tên [thảo](cust_name)
+- mình là [ly](cust_name)
+- mình tên [hải](cust_name)
+- mình tên [lan](cust_name)
+- mình tên [nguyệt](cust_name)
+- [an](cust_name)
+- [dương hoàng anh](cust_name)
+- [nguyễn đức anh](cust_name)
+- mình là [nguyễn ngọc minh anh](cust_name)
+- gọi mình là [bình](cust_name)
+- [lương vũ diệp chi](cust_name)
+- mình tên [nguyễn quỳnh chi](cust_name)
+- [hoàng thị mỹ dung](cust_name)
+- [nguyễn hoa dương](cust_name)
+- [lê tuấn dũng](cust_name)
+- tên mình là [vũ minh đức](cust_name)
+- [trần thị minh khánh](cust_name)
+- [phạm nguyễn huy hoàng](cust_name)
+- [vũ hoàng gia hân](cust_name)
+- tên mình là [nguyễn phạm khánh linh](cust_name)
+- [lương bình minh](cust_name)
+- [phạm anh tuấn](cust_name)
+- [hiền](cust_name)
+- [văn minh](cust_name)
+- [anh](cust_sex) là [minh tiến](cust_name)
+- [chị](cust_sex) tên [khánh](cust_name)
+- tên mình là [nhật minh](cust_name)
+- tên đầy đủ của mình là [nguyễn thị ngọc mỹ](cust_name)
+- họ tên mình là [nguyễn văn hà](cust_name)
+- họ và tên mình là [đỗ việt phương](cust_name)
+- [anh](cust_sex) [thắng](cust_name)
+- [chị](cust_sex) [hồng an](cust_name)
+- [anh](cust_sex) tên là [nam](cust_name)
+- [chị](cust_sex) tên [chi](cust_name)
+- tên [vương](cust_name)
+- vâng, [hùng](cust_name) nhé
+- [chị](cust_sex) [trang](cust_name)
+- [chị](cust_sex) là [mai](cust_name)
+- [trang](cust_name) em nhé
+- [hồng](cust_name) nhé
+- [anh](cust_sex) tên [nguyễn chiến thắng](cust_name) em nhé
+- có, [chị](cust_sex) tên [thanh hương](cust_name) nhé
+- [chị](cust_sex) [trần thị giang](cust_name)
+- [cô](cust_sex) tên [chi](cust_name)
+- vâng, [chú](cust_sex) [hùng](cust_name)
+- [chú](cust_sex) tên [vương tiến đoàn](cust_name)
+- [cô](cust_sex) là [nguyễn thị mai](cust_name)
+- [anh](cust_sex) là [tuấn đẹp trai](cust_name)
+- [cô](cust_sex) là [huệ xinh gái](cust_name)
+- [chú](cust_sex) tên là [nguyễn thị mai](cust_name)
+- dạ, mình tên là [mai](cust_name)
+- dạ. [em](cust_sex) tên là [mai](cust_name)
+- [thắng](cust_name)
+- [mai](cust_name)
+- [nguyễn thị hồng anh](cust_name)
+- [bùi thị mai](cust_name)
+- có. [tôi](cust_sex) tên là [trần công dương](cust_name)
+- có, [anh](cust_sex) tên là [hùng thắng](cust_name)
+- tên [tôi](cust_sex) là [công](cust_name)
+- [trần công](cust_name) là tên [tôi](cust_sex)
+- [trần công](cust_name)
+- [tôi](cust_sex) tên là [công](cust_name)
+- có, [tôi](cust_sex) là [gấu](cust_name)
+- có. [tôi](cust_sex) là [gấu](cust_name)
+- mình là [thúy](cust_name)
+- a [thắng](cust_name)
+- c [hồng anh](cust_name)
+- a [huy thanh](cust_name)
+- c [mỹ nhân](cust_name)
+- [huy](cust_name)
+
+## intent:ask_func_list
+- bạn có thể làm được những gì
+- bạn giúp được gì nào
+- bạn làm gì
+- chức năng của bạn là gì
+- bạn có thể làm được mấy chức năng
+- bạn giỏi nhất làm gì
+- bạn có tư vấn giúp mình được không
+- việc gì bạn làm được
+- kể xem bạn làm được gì
+- cho mình biết bạn làm được gì nhé
+- bạn hữu dụng như thế nào
+- bạn có ích trong những việc gì
+- lĩnh vực gì bạn giỏi nhất
+- mình tò mò về những việc bạn làm được
+- chẳng biết bạn làm được gì
+- bạn tệ nhất trong việc gì
+- bạn biết được những lĩnh vực gì
+- bạn giỏi hỗ trợ nhất trong lĩnh vực gì
+- kể cho mình biết những việc bạn có thể làm được nhé
+- nói cho mình về những việc bạn giúp được mình
+- bạn giúp được mình gì nào
+- bạn có thể làm gì
+- em giúp được gì
+- em làm được gì
+- mày biết làm gì
+- em biết làm gì
+- bạn biết làm gì
+- biết làm gì
+- làm được gì
+- có làm được gì
+- có làm được trò gì
+- giúp giúp cái gì
+- biết gì mà nói
+- làm được gì
+- giúp được gì
+- mày làm được gì
+- có biết gì
+
+## intent:ask_name
+- bạn tên gì
+- tên gì
+- chị tên gì
+- anh tên gì
+- tên của bạn là gì
+- tên của chị là gì
+- tên của anh là gì
+- cho mình hỏi tên nhé
+- mình muốn biết tên bạn
+- mình muốn tiện xưng hộ hơn, cho mình biết tên nhé
+- để tiện xưng hộ thì tên bạn là gì
+- cho em xin tên của anh ạ
+- cho em xin tên của chị ạ
+- được biết tên bạn thì tốt nhỉ
+- vui lòng cho mình biết tên nhé
+- xin phép hỏi tên của bạn
+- vậy thì tên bạn là gì
+- tên bạn trong tiếng việt là gì
+- bạn có vui lòng cho mình biết tên được không
+- chúng ta nên biết tên nhau nhỉ?
+- em tên là gì thế
+- tên em là gì
+- tên em
+- tên bạn
+- bạn tên là gì
+- bạn tên gì thế
+- em tên gì
+
+## intent:ask_news
+- đọc báo mới
+- đọc tin tức
+- tin tức
+- tin tức mới
+- bây giờ có thông tin gì mới không
+- có thông tin gì mới không
+- gần đây có thông tin gì hot
+- có gì hot
+- có news nào không?
+- xin ít thông tin quý
+- tư vấn cho mình mở thẻ tín dụng nhé
+- dạo này có gì mới
+- có tính năng gì mới chưa
+- có tin tức gì mới không
+- cho mình xin tin tức gần đây
+- cho mình biết tin tức
+- cho mình xem báo
+- cho mình xem tin tức
+- có gì mới không
+- mình muốn hỏi một ít thông tin về ngân hàng
+- có thể cho mình biết tin tức mới về ngân hàng không
+- có thể giúp mình tìm hiểu một chút về ngân hàng được không
+- tin tức nào thú vị không
+- gần đây có tin tức gì hot không
+- hot news
+- dạo này shb có sản phẩm gì mới
+- shb có gì mới
+- có gì mới không em
+- có cái gì mới khoe anh không
+- có gì cần khoe không
+- shb có gì hay ho
+- chào em, có gì mới
+- có gì hay ho
+- có gì hot
+- có gì hay
+- có món gì mới
+- có trò gì mới
+- shb có chiêu gì mới
+- dạo này shb ổn chứ
+- có gì hot em
+- đọc báo

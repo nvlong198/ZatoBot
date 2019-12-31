@@ -1,0 +1,117 @@
+intents:
+  - ask_weather
+  - ask_gmail
+  - greet
+  - bye
+  - inform_yes
+  - inform_no
+  - thank
+  - shit
+  - chatchit
+  - ask_func_list
+  - ask_name
+  - ask_news
+  - give_name
+  - ask_lottery
+
+actions:
+ - action_get_lottery
+ - utter_greet
+ - utter_greet_with_name
+ - utter_bye
+ - utter_unclear
+ - utter_weather
+ - utter_ask_name
+ - utter_chatchit
+ - utter_func_list
+ - utter_shit
+ - utter_thank
+ - action_get_weather
+ - action_save_cust_info
+ - action_get_news
+ - action_get_gmail
+ 
+slots:
+  cust_sex:
+    type: text
+    initial_value: "anh"
+  bot_position:
+    type: text
+    initial_value: "em"
+  cust_name:
+    type: text
+    initial_value: "Long"
+  weather:
+    type: text
+  
+templates:
+  utter_greet:
+  - text: Chào chị dễ thương
+  - text: Chào chị đẹp gái
+  - text: Vâng chào anh
+  - text: Chào người đẹp
+  - text: Xin chào ạ
+  - text: Xin chào đại tỷ, lâu rồi không gặp nhỉ
+  - text: Chào sư huynh
+  - text: Ái chà chà, lâu quá không gặp
+  - text: gì vậy anh yêu
+  - text: em yêu của anh đây
+  utter_weather:
+  - text: Thời tiết hôm nay quá đẹp
+  utter_ask_name:
+  - text: Tôi là trợ lý ảo
+  - text: Cứ gọi mình là Chat bot cho nó tây
+  - text: Họ tên - Nguyễn Thị Bot
+  utter_bye:
+  - text: Vậy thôi, bye
+  - text: bye bye
+  - text: Phũ vậy
+  utter_chatchit:
+  - text: Bố em hút rất nhiều thuốc
+          Mẹ em khóc mắt lệ nhoà
+          Bố anh thì đi lại còn mẹ anh gọi điện thoại đến từng nhà 
+  - text: Rất cảm ơn {cust_sex}. Nhưng có lẽ những vấn đề đó chúng ta nên nói riêng
+      cho bí mật ạ!
+  - text: Thôi tao đi ngủ
+  - text: Nói gì cơ ?
+  - text: nói lại xem nào
+  - text: Xung quanh anh toàn là nước, ay\n
+          Cơ thể anh đang bị ướt, ay
+          Mênh mông toàn là nước, ay!
+  - text: Xung quanh em toàn là nước, ey!\n
+          Sông Hương làm em ướt, ey!
+  - text: hihi ngại quó hò
+  - text: yêu quá
+  - text: Dạ em cũng muốn vậy
+  - text: Cảm ơn {cust_sex} đã quan tâm. Nhưng có những thứ hãy để nó thật tự nhiên
+      thì tốt hơn ạ!
+  - text: Dạ, {cust_sex} làm {bot_position} hơi ngại tý tý!
+  - text: Úi giời! {bot_position} còn đang hỗ trợ khách hàng!
+  utter_func_list:
+  - text: "Thử khám phá xem"
+  - text: 'Dạ {bot_position} mình có thể uống chè đàm đạo với bạn'
+  - text: Tôi có thể yêu bạn
+  - text: Bạn có thể yêu tôi, tôi cho phép làm vậy
+  - text: Chơi là chính, học là phụ
+  utter_greet_with_name:
+  - text: Kính chào {cust_sex} {cust_name}. {bot_position} rất vui được gặp {cust_sex}
+  - text: Vâng, {bot_position} xin chào {cust_sex} {cust_name}. {bot_position} có thể
+      giúp gì được {cust_sex} ạ?
+  - text: Vâng, {bot_position} lại xin chào {cust_sex} {cust_name}. Không biết {bot_position}
+      có thể giúp gì được {cust_sex} ạ?
+  - text: Xin chào {cust_sex} {cust_name}, {cust_sex} cần hỗ trợ thông tin gì ạ?
+  - text: "Chúc {cust_sex} {cust_name} một ngày tốt lành!"
+  - text: '{bot_position} Yêu... {cust_sex}'
+  utter_shit:
+  - text: Vô cùng xin lỗi {cust_sex} vì {bot_position} đã mang lại trải nghiệm chưa
+      tốt! {cust_sex} thông cảm và cho phép {bot_position} được tiếp tục phục vụ {cust_sex}
+      ạ!
+  - text: '{bot_position} đang học hỏi hàng ngày để tiếp tục được phục vụ {cust_sex} {cust_name}
+      tốt hơn! Rất mong {cust_sex} thông cảm.'
+  utter_thank:
+  - text: Dạ không có gì ạ! Được phục vụ {cust_sex} là sứ mệnh và niềm vui của {bot_position}
+      ạ!
+  - text: Cám ơn, quá khen rồi
+  - text: Cảm ơn {cust_sex} đã quá khen ạ!
+  utter_unclear:
+  - text: Không hiểu, nói lại đi
